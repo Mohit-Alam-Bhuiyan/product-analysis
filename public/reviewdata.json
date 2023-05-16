@@ -1,0 +1,54 @@
+[
+  {
+    "profile": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg",
+    "name": "James Hadson",
+    "Text2": "1 year ago",
+    "Text": "5.0",
+    "Text3": "As a programmer, I can say that this is just the perfect device for work. The battery lasts more than 10 hours, even when watching movies and TV shows.",
+    "id": "01"
+  },
+  {
+    "profile": "https://img.freepik.com/premium-photo/stupid-gesture-skeptic-woman-crazy-party-strange_279525-15940.jpg?w=826",
+    "name": "Kathrine Lowrance",
+    "Text2": "2 months ago",
+    "Text": "4.8",
+    "Text3": "I switched to Mac 11 years ago, and for that entire period, I had the same laptop, a Macbook Pro, late-2011 model. After the initial adjustment, it has been a great laptop for all of these years.",
+    "id": "02"
+  },
+  
+  {
+    "profile": "https://img.freepik.com/premium-photo/handsome-young-man-portrait-isolated_146377-1870.jpg?w=1380",
+    "name": "Maryann Mendoza",
+    "Text2": "6 months ago",
+    "Text": "4.5",
+    "Text3": "Passive cooling makes this laptop silent. Which is just perfect for audio recording. In addition, it will never get clogged with dust.",
+    "id": "03"
+  },
+  
+  {
+    "profile": "https://img.freepik.com/free-photo/young-tender-fair-haired-teenage-girl-with-healthy-skin-wearing-blue-top-looking-with-serious-pensive-expression-caucasian-woman-model-with-hands-pockets-posing-indoors_176420-13442.jpg",
+    "name": "Zara Adele",
+    "Text2": "2 years ago",
+    "Text": "5.0",
+    "Text3": "I was skeptical of the finless design having had Intel MacBook Airs that ran very warm. So far this Apple silicon MacBook has stayed cool to touch. Honestly, I think a M1 MacBook is all many really need for general use cases. I highly recommend a MacBook Air over any PC notebook.",
+    "id": "04"
+  },
+  
+  {
+    "profile": "https://img.freepik.com/free-photo/happy-young-caucasian-female-wearing-blue-long-sleeved-shirt-making-thumb-up-sign_176420-15015.jpg",
+    "name": "Winslet Dekota",
+    "Text2": "11 days ago",
+    "Text": "4.9",
+    "Text3": "The only exception is when I edit 4k material for video in Davinci Resolve. There, the battery lasts for 3-4 hours. Just like in games. Although I don't play games on this laptop. I ran Froetnite once for a test, I liked it in principle and the FPS was stable 60+.",
+    "id": "05"
+  },
+  {
+    "profile": "https://img.freepik.com/premium-photo/young-handsome-man-looking-camera_251136-26901.jpg",
+    "name": "Ron Ven",
+    "Text2": "7 months ago",
+    "Text": "4.7",
+    "Text3": "It's also very convenient that it can be charged via Type-C cable. By the way, I use a third-party charger and there are no problems with this at all.",
+    "id": "06"
+  }
+  
+]

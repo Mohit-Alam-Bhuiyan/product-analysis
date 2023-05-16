@@ -1,0 +1,13 @@
+.review-details{
+    height: 300px;
+    border: 1px solid gray;
+    margin: 30px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.review-details img{
+    height: 50px;
+    border-radius: 50%;
+    display: inline;
+}

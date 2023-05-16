@@ -37,5 +37,38 @@
     border: none;
     padding: 15px 20px;
     border-radius: 5px;
-    color: rgb(198, 121, 234);;
+    color: rgb(198, 121, 234);
+}
+
+.btn:hover{
+    background-color: rgb(244, 222, 255);
+}
+
+.review-count{
+    text-align: center;
+}
+.home-container{
+    display: grid;
+    grid-template-columns: 3fr;
+    
+}
+
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px; 
+}
+
+.all-button{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.btn-all{
+   padding: 2px 50px;
+   background-color: rgb(247, 230, 255);
+   border-radius: 5px;
+   color: rgb(198, 121, 234);
+   border: none;
 }
