@@ -35,7 +35,12 @@ const Home = () => {
 
 			<div className="home-container">
 				<div className="review-container">
-					{reviews.map((reviewDetail) => <ReviewDetails key={reviewDetail.id} reviewDetail={reviewDetail} />)}
+					{reviews.map((reviewDetail) => 
+					<ReviewDetails 
+					key={reviewDetail.id} 
+					reviewDetail={reviewDetail}
+					/>)}
+
 				</div>
 			</div>
 
